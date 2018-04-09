@@ -1,4 +1,1 @@
-
-
-Simple Weather app with reactjs
-
+Simple weather app with reactjs
